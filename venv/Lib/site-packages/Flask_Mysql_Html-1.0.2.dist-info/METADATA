@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Flask-Mysql-Html
+Version: 1.0.2
+Summary: a look mysql html
+Home-page: https://github.com/wj844908240/Flask_Mysql_Html.git
+Author: wangji
+Author-email: 844908240@qq.com
+License: MIT License
+Keywords: flask look mysql html
+Platform: any
+Requires-Dist: flask
+Requires-Dist: pymysql
+
+UNKNOWN
+
+
